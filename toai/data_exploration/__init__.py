@@ -1,3 +1,3 @@
 # pylama:ignore=W0611
 
-from .plot import sparse_top_2_categorical_accuracy
+from .plot import plot_graphs
